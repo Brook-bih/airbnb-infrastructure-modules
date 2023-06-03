@@ -1,4 +1,4 @@
 variable "bucket_name" {
     type = string
-    default = "airbnb_brook33"
+    default = "airbnbbrook331122112211"
 }
